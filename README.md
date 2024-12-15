@@ -1,5 +1,10 @@
 # VEHICLE-RENTAL-SYSTEM
 
+TEAM MEMBERS : 
+USN : 1RF23IS068 RAKSHITHA M S
+USN : 1RF23IS080 SHREYA K
+USN : IRF23IS061 NETTEM NITHYA SREE
+
 Vehicle Rental System
 This project implements a simple Vehicle Rental System using Java Swing. The system allows users to rent vehicles for a given number of days and calculates the rental cost based on the vehicle type. Users can also return the vehicle, and the system will display the confirmation along with the total rental cost.
 
@@ -22,6 +27,7 @@ IDE:  Eclipse, or any Java-compatible IDE
 
 Installation
 1. Clone the Repository
+   GIT CLONE : https://github.com/Shreya-k28/VEHICLE-RENTAL-SYSTEM/blob/main/code%20of%20vehicle%20rental%20system
     
 
 
@@ -43,13 +49,14 @@ Select a vehicle (Toyota Corolla, Honda Civic, or Ford Mustang).
 Click the "OK" button to calculate the total rental cost.
 Click the "RETURN" button to simulate vehicle return.
 Use the "RESET" button to clear all input fields.
+
 Code Explanation
 GUI Layout: The GUI is built using Java Swing components such as JLabel, JTextField, and JButton.
 Event Handling: The application listens for button clicks (OK, Return, Reset) and performs appropriate actions based on user inputs.
 Error Handling: The program ensures that users enter valid values (e.g., a valid number of days).
 Price Calculation: When the user selects a vehicle, the application multiplies the rental days by the corresponding price to compute the total cost.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
 Author
 USN : 1RF23IS068 RAKSHITHA M S
