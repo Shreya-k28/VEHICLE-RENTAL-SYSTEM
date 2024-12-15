@@ -41,7 +41,7 @@ Compile and run the Demo class to start the application.
 4. Run from Command Line
 If you're familiar with the command line, navigate to the directory where the files are located and compile and run the program:
 
-bash
+
 Copy code
 javac Demo.java
 java Demo
