@@ -19,6 +19,9 @@ Toyota Corolla: $50.0/day
 Honda Civic: $60.0/day
 Ford Mustang: $100.0/day
 
+Screenshots
+
+![WhatsApp Image 2024-12-15 at 12 26 42 PM](https://github.com/user-attachments/assets/87469e97-1ad2-4666-919a-c78619a88fec)
 
 
 Requirements
